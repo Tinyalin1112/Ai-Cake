@@ -51,16 +51,17 @@ header{
     height: 85px;
     margin-top: 88px;
     margin-left: 331px;
+    margin-right: 0px;
 }
 .nav-list-item{
     display: inline-block;
     width: calc((100%-30px)/6);
-    margin-top: 100px;
+    margin-top: 88px;
 }
 .nav-list-item:hover{
     display: inline-block;
     width: calc((100%-30px)/6);
-    margin-top: 100px;
+    margin-top: 88px;
 }
 .nav-list-item-btn{
     color: #ffffff;
@@ -232,7 +233,7 @@ footer{
 }
 .footer_words_area{
     position: absolute;
-    margin-top: 90px;
+    margin-top: 111px;
 }
 .about_us_item{
     margin-left: 77px;
@@ -245,7 +246,7 @@ footer{
 .info{
     width: 149px;
     height: 150px;
-    margin-top: 113px;
+    margin-top: 48px;
     margin-left: 522px;
 }
 .info_item{
@@ -255,7 +256,7 @@ footer{
 
 
 .Copyright{
-    margin-top: 182px;
+    margin-top: 282px;
     margin-left: 504px;
     position: absolute;
     width: 272px;
