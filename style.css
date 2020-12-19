@@ -80,14 +80,19 @@ header{
 }
 
 .camera{
+    position: absolute;
+    background: #DBE4E7;
+    width: 1280px;
+    height: 584px;
+    margin-top: 173px;
+}
+.camera_pic{
     display: block;
     width: 1280px;
     height: 422.65px;
     position: absolute;
     margin-top: 233px;
-}
-.camera_pic{
-    position: absolute;
+    
 }
 #banner_point{
     list-style-type: none;
@@ -109,7 +114,7 @@ header{
 }
 .Product{
     position: absolute;
-    width: 96px;
+    width: 120px;
     height: 56px;
     color: #ffffff;
     font-size: 28px;
