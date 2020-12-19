@@ -64,6 +64,7 @@ header{
     height: 37px;
     font-size: 30px;
     line-height: 45px;
+    margin-top: 24px;
 }
 .nav-list-item-btn:hover{
     color: #000000;
@@ -75,6 +76,7 @@ header{
     border-radius: 10px;
     font-size: 30px;
     line-height: 45px;
+    margin-top: 24px;
 }
 
 .camera{
