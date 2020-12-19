@@ -1,5 +1,6 @@
 body{
     width: 1280px;
+    height:1653px;
     margin: auto;
 }
 header{
@@ -176,8 +177,8 @@ footer{
 .ic_footer{
     position: absolute;
     object-fit: contain;
-    height: 25px;
-    width: 25px;
+    height: 68px;
+    width: 68px;
 }
 .ic_fb{
     margin-top: 136.72px;
@@ -237,16 +238,8 @@ footer{
     margin-left: 695px;
     padding: 10px;
 }
-.web_info{
-    width: 102px;
-    height: 28px;
-    margin-top: 59px;
-    margin-left: 986px;
-}
-.web_info_item{
-    margin-left: 978px;
-    padding: 10px;
-}
+
+
 .Copyright{
     margin-top: 182px;
     margin-left: 504px;
