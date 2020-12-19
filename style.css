@@ -168,7 +168,7 @@ header{
 footer{
     position: absolute;
     width: 1280px;
-    height: 277px;
+    height: 312px;
     margin-left: 0px;
     margin-top: 1850px;
     background: #369DBE;
@@ -196,15 +196,15 @@ footer{
     margin-left: 155px;
 }
 .footer_title{
-    font-size: 24px;
+    font-size: 30px;
     line-height: 28px;
-    color: #B28E6A;
+    color: #ffffff;
     position: absolute;
 }
 .footer_words{
     display: block;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 21px;
     color: #FFFDFD;
 }
@@ -227,13 +227,13 @@ footer{
     margin-left: -30px;
 }
 
-.shopping_info{
+.info{
     width: 149px;
     height: 150px;
     margin-top: 59px;
     margin-left: 705px;
 }
-.shopping_info_item{
+.info_item{
     margin-left: 695px;
     padding: 10px;
 }
@@ -248,11 +248,11 @@ footer{
     padding: 10px;
 }
 .Copyright{
-    margin-top: 241px;
-    margin-left: 469px;
+    margin-top: 282px;
+    margin-left: 504px;
     position: absolute;
-    width: 343px;
-    height: 21px;
+    width: 272px;
+    height: 32px;
     font-size: 18px;
     line-height: 21px;
     text-align: center;
