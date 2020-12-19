@@ -44,7 +44,7 @@ header{
 
 .nav-list{
     list-style-type: none;
-    text-align:left;
+    text-align:right;
     color: #6EC6E1;
 
 }
@@ -206,13 +206,13 @@ footer{
     text-decoration: none;
     font-size: 24px;
     line-height: 21px;
-    color: #FFFDFD;
+    color: #ffffff;
 }
 .about_us{
     width: 102px;
     height: 28px;
-    margin-top: 59px;
-    margin-left: 289px;
+    margin-top: 48px;
+    margin-left: 77px;
 
 }
 .footer_words_area{
