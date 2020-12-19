@@ -23,7 +23,7 @@ header{
     height: 138px;
 }
 .LOGO_header{
-    margin-top:17px;
+    margin-top:18px;
     margin-left: 100px;
 }
 .header-icon{
@@ -45,6 +45,8 @@ header{
 .nav-list{
     list-style-type: none;
     text-align:center;
+    background: #6EC6E1;
+
 }
 .nav-list-item{
     display: inline-block;
