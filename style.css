@@ -42,6 +42,7 @@ header{
     background: #6EC6E1;
     width: 949px;
     height: 85px;
+    margin-top: 88px;
 }
 .nav-list-item{
     display: inline-block;
@@ -179,16 +180,20 @@ footer{
     width: 25px;
 }
 .ic_fb{
-    margin-top: 214px;
-    margin-left: 56px;
-}
-.ic_line{
-    margin-top: 214px;
-    margin-left: 106px;
+    margin-top: 136.72px;
+    margin-left: 868px;
 }
 .ic_ig{
-    margin-top: 214px;
-    margin-left: 155px;
+    margin-top: 136.72px;
+    margin-left: 962px;
+}
+.ic_mail{
+    margin-top: 136.72px;
+    margin-left: 1054.89px;
+}
+.ic_line{
+    margin-top: 136.72px;
+    margin-left: 1140.22px;
 }
 .footer_title{
     font-size: 30px;
@@ -204,7 +209,7 @@ footer{
     color: #ffffff;
 }
 .about_us{
-    width: 102px;
+    width: 214px;
     height: 28px;
     margin-top: 48px;
     margin-left: 77px;
