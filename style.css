@@ -34,19 +34,14 @@ header{
     margin-top: 15px;
     display: inline-block;
 }
-.ic_login{
-    margin-top: 2px;
-    margin-right: 110px;
-    position: absolute;
-    right: 0;
-    top: 0;
-}
+
 
 .nav-list{
     list-style-type: none;
     text-align:right;
-    color: #6EC6E1;
-
+    background: #6EC6E1;
+    width: 949px;
+    height: 85px;
 }
 .nav-list-item{
     display: inline-block;
