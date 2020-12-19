@@ -44,8 +44,8 @@ header{
 
 .nav-list{
     list-style-type: none;
-    text-align:center;
-    background: #6EC6E1;
+    text-align:left;
+    color: #6EC6E1;
 
 }
 .nav-list-item{
@@ -64,7 +64,7 @@ header{
     display: block;
     width: 128px;
     height: 45px;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 45px;
 }
 .nav-list-item-btn:hover{
@@ -75,38 +75,10 @@ header{
     height: 45px;
     background: rgba(255, 255, 255, 0.7);
     border-radius: 10px;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 45px;
 }
-.nav-sublist{
-    list-style-type: none;
-    text-align:center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    margin-top: 9px;
-    background-color:rgba(255, 255, 255, 1) ;
-}
-.nav-sublist-item{
-    position: relative;
-    z-index:100;
-    display: block;
-    border: 1px solid  #99D3D0;
-    background-color:rgba(255, 255, 255, 1)
-}
-.nav-list-item-link{
-    position: relative;
-    z-index:100;
-    color:  #000000;
-    text-decoration: none;
-    display: block;
-    width: 128px;
-    height: 45px;
-    font-size: 18px;
-    line-height: 45px;
-    background: rgba(255, 255, 255, 0.7);
-    margin-top: 10px;
-}
+
 .camera{
     display: block;
     width: 1280px;
