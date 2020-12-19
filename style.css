@@ -115,6 +115,24 @@ header{
 .camera_pic{
     position: absolute;
 }
+#banner_point{
+    list-style-type: none;
+    position: absolute;
+    margin-top: 705px;
+    margin-left: 550px;
+}
+.point{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border-radius: 999em;
+    background-color: #6EC6E1;
+    cursor:pointer;
+}
+.active{
+    background-color: #369DBE;
+    ;
+}
 .Product{
     position: absolute;
     width: 96px;
